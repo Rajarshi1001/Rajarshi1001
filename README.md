@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+> I am Rajarshi Dutta, a Second year Undergraduate from IIT Kanpur from Materials Science and Engineering Department.
 
 - 🌱 I’m currently learning ML, backend and docker
 - 👯 I’m looking to collaborate on Opensource projects
