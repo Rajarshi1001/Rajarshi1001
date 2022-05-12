@@ -2,7 +2,7 @@
 
 > I am Rajarshi Dutta, a Second year Undergraduate from IIT Kanpur from Materials Science and Engineering Department.
 
-- 🌱 I’m currently learning ML, backend and docker
+- 🌱 I’m currently learning Machine learning, Backend Development and getting familiar with a bit of Docker
 - 👯 I’m looking to collaborate on Opensource projects
 - 📫 How to reach me: rajarshidutta2015@gmail.com
 
