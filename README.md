@@ -19,4 +19,5 @@
 <a href="https://github.com/Rajarshi1001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajarshi1001&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajarshi1001&theme=aura&layout=compact" />
+  <img height="180em" src="/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=3840&q=75" />
 </a>
