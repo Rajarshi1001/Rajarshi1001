@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I am Rajarshi Dutta, a Second year Undergraduate from IIT Kanpur from Materials Science and Engineering Department.
+> I am Rajarshi Dutta, a Third year Undergraduate from IIT Kanpur from Materials Science and Engineering Department.
 
 ### About Me - 
 
