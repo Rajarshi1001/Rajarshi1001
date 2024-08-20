@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### I am Rajarshi Dutta, a final year undergraduate from IIT Kanpur from Materials Science and Engineering Department.
+### I am Rajarshi Dutta, a graduate from IIT Kanpur majoring in Materials Science and Engineering Department.
 
 ### About Me - 
 
-- 🌱 I’m currently interested in Machine learning, Reinforcement Learning and Backend Development.
+- 🌱 I’m currently interested in Machine learning, NLP, Reinforcement Learning and Backend Development.
 - 👽 Managed and participated in competitions as an ex-Team Head of Aerial Robotics, IIT Kanpur
 - 👯 I’m looking to collaborate on Opensource projects
 - ⚓ I also like solving CTFs, puzzles, sudokus during my free time
